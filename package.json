@@ -1,0 +1,16 @@
+{
+    "name": "schema-validator",
+    "version": "1.0.0",
+    "description": "EIP-712 message schema validator",
+    "main": "dist/schemaValidator.js",
+    "repository": "https://github.com/Blank-Wallet/schema-validator.git",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^16.9.1",
+        "ajv": "^8.6.3",
+        "typescript": "^4.4.3"
+    },
+    "scripts": {
+        "build": "make build"
+    }
+}
