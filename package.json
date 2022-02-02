@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "EIP-712 message schema validator",
     "main": "dist/schemaValidator.js",
-    "repository": "https://github.com/Blank-Wallet/schema-validator.git",
+    "repository": "https://github.com/Block-Wallet/schema-validator.git",
     "license": "MIT",
     "devDependencies": {
         "@types/node": "^16.9.1",
