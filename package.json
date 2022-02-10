@@ -1,5 +1,5 @@
 {
-    "name": "schema-validator",
+    "name": "@block-wallet/schema-validator",
     "version": "1.0.0",
     "description": "EIP-712 message schema validator",
     "main": "dist/schemaValidator.js",
@@ -12,5 +12,8 @@
     },
     "scripts": {
         "generate": "make build"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
     }
 }
