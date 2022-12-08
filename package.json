@@ -6,7 +6,7 @@
     "repository": "https://github.com/Block-Wallet/schema-validator.git",
     "license": "MIT",
     "devDependencies": {
-        "@types/node": "^18.11.10",
+        "@types/node": "^18.11.11",
         "ajv": "^8.11.2",
         "typescript": "^4.9.3"
     },
