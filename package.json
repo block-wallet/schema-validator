@@ -8,7 +8,7 @@
     "devDependencies": {
         "@types/node": "^18.11.11",
         "ajv": "^8.11.2",
-        "typescript": "^4.9.3"
+        "typescript": "^4.9.4"
     },
     "scripts": {
         "generate": "make build"
